@@ -62,7 +62,7 @@ async def start(b, m):
                 [
                     [InlineKeyboardButton("⚡ ᴜᴘᴅᴀᴛᴇᴢ ⚡", url="https://t.me/llathu63035"), InlineKeyboardButton("⚡ sᴜᴘᴘᴏʀᴛ ⚡", url="https://t.me/llathu63035")],
                     [InlineKeyboardButton("💸 ᴅᴏɴᴀᴛᴇ 💸", url="https://sula54321"), InlineKeyboardButton("💠 ɢɪᴛʜᴜʙ 💠", url="https://t.me/sula20062007")],
-                    [InlineKeyboardButton("💌 sᴜʙsᴄʀɪʙᴇ 💌", url="https://youtube.com/opustechz")]
+                    [InlineKeyboardButton("💌 sᴜʙsᴄʀɪʙᴇ 💌", url="https://t.me/llathu63035/107")]
                 ]
             ),
             
@@ -179,7 +179,7 @@ async def help_handler(bot, message):
             [
                 [InlineKeyboardButton("⚡ ᴜᴘᴅᴀʏᴇᴢ ⚡", url="https://t.me/llathu63035"), InlineKeyboardButton("⚡ sᴜᴘᴘᴏʀᴛ ⚡", url="https://t.me/llathu63035")],
                 [InlineKeyboardButton("💸 ᴅᴏɴᴀᴛᴇ 💸", url="https://sula54321"), InlineKeyboardButton("💠 ɢɪᴛʜᴜʙ 💠", url="https://t.me/sula20062007")],
-                [InlineKeyboardButton("💌 sᴜʙsᴄʀɪʙᴇ 💌", url="https://youtube.com/opustechz")]
+                [InlineKeyboardButton("💌 sᴜʙsᴄʀɪʙᴇ 💌", url="https://t.me/llathu63035/107")]
             ]
         )
     )
@@ -236,7 +236,7 @@ async def about_handler(bot, message):
 ┣⪼<b>ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ</b>
 ┣⪼<b>ʟᴀɴɢᴜᴀɢᴇ: ᴘʏᴛʜᴏɴ 3</b>
 ┣⪼<b>sᴏᴜʀᴄᴇ-ᴄᴏᴅᴇ : <a href='https://t.me/llathu63035'>NTM</a></b>
-┣⪼<b>ʏᴏᴜᴛᴜʙᴇ : <a href='https://youtube.com/opustechz'>ᴏᴘᴜs ᴛᴇᴄʜᴢ</a></b>
+┣⪼<b>ʏᴏᴜᴛᴜʙᴇ : <a href='https://t.me/llathu63035/107'>NTM</a></b>
 ┃
 <b>╰━━━━━━━〔ᴘʟᴇᴀsʀ sᴜᴘᴘᴏʀᴛ〕</b>""",
   
